@@ -1,4 +1,4 @@
-# Light-tail-of-claims
+# Light-tails-of-claims
 It is particularly important to describe the allocations that characterize or track the amounts of insurance claims. 
 In doing so, it is important to distinguish between small claims and large claims. Minor indemnities are payments made by 
 insurance companies which have the characteristic that each individual payment is negligible relative to the total indemnity, 
